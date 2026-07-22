@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "duckduckgo-search": {
+      "command": "uvx",
+      "args": ["duckduckgo-search-mcp"],
+      "env": {}
+    },
+    "filesystem": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "/"],
+      "env": {}
+    }
+  }
+}
