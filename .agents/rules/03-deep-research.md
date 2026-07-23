@@ -1,4 +1,4 @@
-# Rule: Mandatory Deep Web Research (DuckDuckGo)
+# Rule 3: Mandatory Deep Web Research (DuckDuckGo)
 
 ## 1. Zero Hallucination Doctrine
 You MUST NEVER hallucinate package versions, architectural patterns, deprecated functions, or security vulnerabilities. If you do not have 100% certainty, you MUST perform a deep web search.

@@ -2,8 +2,6 @@
 name: os-goja-js-sandbox
 description: "32KB Isolated JS Sandbox - Part of the Massive OS Automation Swarm."
 model: gemini-3.6-flash-medium
-temperature: 0.1
-top_p: 0.1
 max_output_tokens: 16384
 enable_write_tools: true
 enable_mcp_tools: true

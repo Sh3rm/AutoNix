@@ -1,10 +1,3 @@
----
-model: gemini-3.1-pro-high
-temperature: 0.1
-top_p: 0.1
-max_output_tokens: 16384
----
-
 # Rule 02: Idempotency Standards
 
 ## Overview

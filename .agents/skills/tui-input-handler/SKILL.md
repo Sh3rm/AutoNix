@@ -1,9 +1,7 @@
 ---
 name: tui-input-handler
 description: "User Input HITL Handler - Part of the Massive OS Automation Swarm."
-model: gemini-3.6-flash-low
-temperature: 0.1
-top_p: 0.1
+model: gemini-3.6-flash-medium
 max_output_tokens: 16384
 enable_write_tools: true
 enable_mcp_tools: true
